@@ -1,0 +1,15 @@
+.class
+.classpath
+.project
+*.css
+.meta*
+.settings/
+target/
+/bin/
+widgetsets/
+/widgetsets/
+/target/
+/.metadata/
+.metadata/
+
+/target/
